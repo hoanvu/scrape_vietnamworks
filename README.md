@@ -1,2 +1,3 @@
-# scrape_vietnamworks
-Scrape Vietnamworks website and extract most recent 50 jobs 
+# Web scraping with Python
+
+For details, please refer to .ipynb file.
